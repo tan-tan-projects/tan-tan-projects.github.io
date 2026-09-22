@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://tan-tan-project.co.id/sitemap.xml
